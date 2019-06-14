@@ -17,7 +17,7 @@
     },
     "autoload": {
     	"psr-4": {
-    		"qpf\\phtml": "src"
+    		"qpf\\phtml\\": "src"
     	}
     }
 }
