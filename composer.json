@@ -1,0 +1,23 @@
+{
+    "name": "qpfsoft/phtml",
+    "description": "QPF Htmc Upgraded version",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "qiun",
+            "email": "qiun@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+    	"php": ">=7.1.0"
+    },
+    "require-dev": {
+        
+    },
+    "autoload": {
+    	"psr-4": {
+    		"qpf\\phtml": "src"
+    	}
+    }
+}
